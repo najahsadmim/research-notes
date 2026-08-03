@@ -47,3 +47,31 @@
 
 # Papers from:
 ACL, EMNLP, NAACL, ICLR, NeurIPS, Google Scholar
+
+# Note structure:
+--------------------
+# Paper
+
+## Research Question
+
+## Why Previous Work Wasn't Enough
+
+## Main Idea
+
+## Method
+
+## Datasets
+
+## Evaluation
+
+## Strengths
+
+## Weaknesses
+
+## What I Learned
+
+## Research Ideas
+
+## Questions I Still Have
+
+## Could This Help My Thesis?
