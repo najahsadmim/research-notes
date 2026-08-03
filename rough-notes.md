@@ -1,9 +1,6 @@
 # File structure
 -----------------
-research-notes/
-│
-├── README.md
-│
+
 ├── 01_Foundations/
 │   ├── NLP.md
 │   ├── Transformers.md
